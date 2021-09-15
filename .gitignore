@@ -1,0 +1,24 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Python generated files #
+##########################
+__pycache__/
+
+Icon?
+Icon
+Icon\r\r
+Icon\r
+
+# Data files #
+# ############
+.csv
+
+# Config files #
+# ##############
+.ftpconfig
+
+.idea/
+.iml
