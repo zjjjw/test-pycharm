@@ -23,4 +23,3 @@ def transformation(df_aggregated_data:pd.DataFrame, list_feature_name: list,powe
 
 
 
-# tttttt
