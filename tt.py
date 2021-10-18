@@ -24,5 +24,8 @@ def transformation(df_aggregated_data:pd.DataFrame, list_feature_name: list,powe
 def bsdehqd(b):
     return b+1
 
+def njdjn(c):
+    return c+1
+
 
 
